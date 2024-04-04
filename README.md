@@ -1,5 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ow3d645ljypws4ny?svg=true)]()
-### [Gh-page]()
+[![Build status](https://ci.appveyor.com/api/projects/status/ow3d645ljypws4ny?svg=true)](https://ci.appveyor.com/project/Zunickx/ahj-events)
+### [Gh-page](https://github.com/Zunickx/ahj-events)
 # 3. Домашнее задание к лекции «Обработка событий»
 
 Правила сдачи задания:
